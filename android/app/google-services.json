@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198829968203",
+    "project_id": "mirhunn-g6mdhy",
+    "storage_bucket": "mirhunn-g6mdhy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198829968203:android:8c3ac2f38d2769fb93f6ce",
+        "android_client_info": {
+          "package_name": "com.mycompany.mirhunn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQC8qDpWdhbInjx3qZV_jroQsiSHaYSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
